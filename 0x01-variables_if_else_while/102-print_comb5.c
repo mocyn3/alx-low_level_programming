@@ -26,7 +26,7 @@ int main(void)
 					putchar(' ');
 					putchar(jfi);
 					putchar(j);
-					if (ifi != 57 || jfirst != 57 || i != 56 || j != 57)
+					if (ifi != 57 || jfi != 57 || i != 56 || j != 57)
 					{
 						putchar(',');
 						putchar(' ');
