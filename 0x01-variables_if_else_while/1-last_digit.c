@@ -20,7 +20,7 @@ int main(void)
 		}
 	else if (LASTDI == 0)
 	{
-		printf("Last digit of %d is %d and is 0\n", n, LASTDI;
+		printf("Last digit of %d is %d and is 0\n", n, LASTDI);
 	}
 	else if (LASTDI < 6)
 	{
