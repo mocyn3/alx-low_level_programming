@@ -16,7 +16,7 @@ int main(void)
 		b = 0;
 		while (b < 10)
 		{
-			a + 0;
+			a = 0;
 			while (a < 10)
 			{
 				if (a != b && b != c && c < b && b < a)
