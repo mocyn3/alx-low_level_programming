@@ -2,8 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* Entery point main */
+
 /* betty style doc for function main goes there */
+/**
+ * main - Entry point/ program that prints a line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
