@@ -1,9 +1,7 @@
 #include "main.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 /**
- * main -  PRINT _PUTCHAR Followed by a new line.
+ * main -  Prints _PUTCHAR followed by a new line
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -20,3 +18,4 @@ int main(void)
 
 	return (0);
 }
+
